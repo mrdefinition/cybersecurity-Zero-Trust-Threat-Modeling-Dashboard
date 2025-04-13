@@ -1,0 +1,6 @@
+ControlID,ControlType,Status
+control_1,MFA,Disabled
+control_2,Least Privilege,Enabled
+control_3,Network Segmentation,Enabled
+control_4,Endpoint Security,Enabled
+control_5,Data Encryption,Disabled

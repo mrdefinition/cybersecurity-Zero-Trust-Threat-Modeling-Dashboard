@@ -1,0 +1,101 @@
+UserID,Role,Department,ZeroTrustPolicy
+user_1,Admin,IT,Segregation of Duties
+user_2,Intern,HR,Least Privilege
+user_3,Contractor,Marketing,Require MFA
+user_4,Contractor,IT,Require MFA
+user_5,Admin,HR,Require MFA
+user_6,Admin,HR,Least Privilege
+user_7,Manager,Finance,Least Privilege
+user_8,Contractor,HR,Require MFA
+user_9,Contractor,IT,Role-based Access
+user_10,Admin,Finance,Least Privilege
+user_11,Intern,Finance,Require MFA
+user_12,Manager,Finance,Segregation of Duties
+user_13,Contractor,Marketing,Segregation of Duties
+user_14,Manager,IT,Require MFA
+user_15,Employee,Sales,Least Privilege
+user_16,Manager,IT,Role-based Access
+user_17,Intern,Sales,Least Privilege
+user_18,Intern,IT,Role-based Access
+user_19,Employee,Marketing,Require MFA
+user_20,Contractor,Sales,Least Privilege
+user_21,Employee,Marketing,Least Privilege
+user_22,Intern,Finance,Least Privilege
+user_23,Admin,Sales,Role-based Access
+user_24,Intern,HR,Segregation of Duties
+user_25,Admin,Sales,Least Privilege
+user_26,Employee,Sales,Role-based Access
+user_27,Admin,HR,Least Privilege
+user_28,Admin,Finance,Least Privilege
+user_29,Admin,HR,Least Privilege
+user_30,Contractor,Sales,Role-based Access
+user_31,Employee,Marketing,Role-based Access
+user_32,Manager,Sales,Segregation of Duties
+user_33,Admin,Marketing,Require MFA
+user_34,Contractor,Finance,Require MFA
+user_35,Employee,IT,Require MFA
+user_36,Intern,Sales,Require MFA
+user_37,Employee,IT,Require MFA
+user_38,Intern,Marketing,Segregation of Duties
+user_39,Employee,Finance,Least Privilege
+user_40,Manager,Marketing,Segregation of Duties
+user_41,Contractor,Finance,Segregation of Duties
+user_42,Employee,Sales,Role-based Access
+user_43,Manager,Sales,Role-based Access
+user_44,Employee,Sales,Segregation of Duties
+user_45,Contractor,HR,Least Privilege
+user_46,Manager,Finance,Least Privilege
+user_47,Intern,IT,Role-based Access
+user_48,Contractor,Sales,Require MFA
+user_49,Manager,IT,Segregation of Duties
+user_50,Contractor,Finance,Least Privilege
+user_51,Admin,Sales,Require MFA
+user_52,Admin,Marketing,Least Privilege
+user_53,Contractor,Sales,Segregation of Duties
+user_54,Contractor,IT,Segregation of Duties
+user_55,Admin,IT,Role-based Access
+user_56,Intern,Sales,Require MFA
+user_57,Employee,IT,Role-based Access
+user_58,Contractor,Marketing,Segregation of Duties
+user_59,Manager,Marketing,Role-based Access
+user_60,Employee,Marketing,Least Privilege
+user_61,Employee,Marketing,Segregation of Duties
+user_62,Employee,IT,Role-based Access
+user_63,Intern,Sales,Least Privilege
+user_64,Manager,IT,Least Privilege
+user_65,Contractor,IT,Role-based Access
+user_66,Employee,Sales,Require MFA
+user_67,Admin,IT,Require MFA
+user_68,Intern,Marketing,Least Privilege
+user_69,Admin,HR,Least Privilege
+user_70,Manager,IT,Role-based Access
+user_71,Contractor,HR,Require MFA
+user_72,Admin,HR,Require MFA
+user_73,Intern,Sales,Role-based Access
+user_74,Employee,Marketing,Require MFA
+user_75,Manager,Marketing,Require MFA
+user_76,Manager,Finance,Require MFA
+user_77,Manager,IT,Role-based Access
+user_78,Intern,IT,Role-based Access
+user_79,Contractor,Sales,Require MFA
+user_80,Manager,IT,Segregation of Duties
+user_81,Contractor,IT,Role-based Access
+user_82,Employee,Sales,Segregation of Duties
+user_83,Admin,IT,Least Privilege
+user_84,Employee,Finance,Segregation of Duties
+user_85,Admin,Marketing,Require MFA
+user_86,Employee,Finance,Require MFA
+user_87,Contractor,Finance,Segregation of Duties
+user_88,Intern,Marketing,Least Privilege
+user_89,Admin,Marketing,Least Privilege
+user_90,Manager,Finance,Least Privilege
+user_91,Admin,HR,Least Privilege
+user_92,Manager,HR,Segregation of Duties
+user_93,Admin,Finance,Role-based Access
+user_94,Employee,HR,Least Privilege
+user_95,Contractor,HR,Role-based Access
+user_96,Manager,Marketing,Role-based Access
+user_97,Employee,IT,Least Privilege
+user_98,Employee,HR,Least Privilege
+user_99,Contractor,IT,Role-based Access
+user_100,Intern,Sales,Segregation of Duties

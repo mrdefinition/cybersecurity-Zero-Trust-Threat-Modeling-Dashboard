@@ -1,0 +1,5 @@
+Tactic,Technique,ID,Description
+Initial Access,Phishing,T1071,User is tricked into revealing credentials via a phishing attack
+Execution,PowerShell,T1086,PowerShell used to execute commands on the system
+Persistence,Account Manipulation,T1098,Malicious actors manipulate accounts to maintain access
+Exfiltration,Data Staged,T1071,Data is staged for later exfiltration

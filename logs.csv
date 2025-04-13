@@ -1,0 +1,501 @@
+UserID,Action,Timestamp,AssetID,Risk Score,Success
+user_76,Network Access,2025-01-01 00:00:00,asset_34,27,True
+user_55,File Access,2025-01-01 01:00:00,asset_50,27,False
+user_56,File Access,2025-01-01 02:00:00,asset_64,4,True
+user_53,Admin Action,2025-01-01 03:00:00,asset_1,6,False
+user_13,File Access,2025-01-01 04:00:00,asset_47,20,False
+user_63,Login,2025-01-01 05:00:00,asset_94,98,True
+user_56,Network Access,2025-01-01 06:00:00,asset_64,25,True
+user_76,File Access,2025-01-01 07:00:00,asset_25,83,False
+user_17,Login,2025-01-01 08:00:00,asset_97,83,True
+user_6,Privilege Escalation,2025-01-01 09:00:00,asset_54,54,True
+user_51,Admin Action,2025-01-01 10:00:00,asset_15,92,True
+user_90,Privilege Escalation,2025-01-01 11:00:00,asset_100,80,True
+user_46,Network Access,2025-01-01 12:00:00,asset_91,85,True
+user_12,Network Access,2025-01-01 13:00:00,asset_68,14,True
+user_43,Admin Action,2025-01-01 14:00:00,asset_79,96,True
+user_89,Admin Action,2025-01-01 15:00:00,asset_96,38,False
+user_86,Login,2025-01-01 16:00:00,asset_13,8,True
+user_15,File Access,2025-01-01 17:00:00,asset_32,41,False
+user_62,Privilege Escalation,2025-01-01 18:00:00,asset_75,7,False
+user_96,Network Access,2025-01-01 19:00:00,asset_13,73,False
+user_87,Network Access,2025-01-01 20:00:00,asset_99,69,True
+user_64,Network Access,2025-01-01 21:00:00,asset_13,83,False
+user_55,Login,2025-01-01 22:00:00,asset_8,90,False
+user_38,Privilege Escalation,2025-01-01 23:00:00,asset_31,74,False
+user_79,File Access,2025-01-02 00:00:00,asset_20,4,False
+user_75,File Access,2025-01-02 01:00:00,asset_60,43,False
+user_49,Privilege Escalation,2025-01-02 02:00:00,asset_56,42,False
+user_98,Network Access,2025-01-02 03:00:00,asset_18,58,True
+user_67,Privilege Escalation,2025-01-02 04:00:00,asset_16,54,False
+user_1,Network Access,2025-01-02 05:00:00,asset_50,46,False
+user_28,Admin Action,2025-01-02 06:00:00,asset_74,34,False
+user_100,Network Access,2025-01-02 07:00:00,asset_6,86,False
+user_96,Privilege Escalation,2025-01-02 08:00:00,asset_57,91,False
+user_33,Privilege Escalation,2025-01-02 09:00:00,asset_24,6,False
+user_33,Privilege Escalation,2025-01-02 10:00:00,asset_12,23,False
+user_72,Login,2025-01-02 11:00:00,asset_91,100,True
+user_46,Network Access,2025-01-02 12:00:00,asset_96,54,True
+user_38,Admin Action,2025-01-02 13:00:00,asset_10,22,False
+user_8,Network Access,2025-01-02 14:00:00,asset_64,50,False
+user_87,Privilege Escalation,2025-01-02 15:00:00,asset_12,60,True
+user_46,Privilege Escalation,2025-01-02 16:00:00,asset_56,24,True
+user_100,Network Access,2025-01-02 17:00:00,asset_50,49,True
+user_68,Network Access,2025-01-02 18:00:00,asset_36,22,True
+user_92,Admin Action,2025-01-02 19:00:00,asset_60,95,False
+user_49,Login,2025-01-02 20:00:00,asset_71,59,False
+user_18,Admin Action,2025-01-02 21:00:00,asset_97,31,True
+user_7,File Access,2025-01-02 22:00:00,asset_5,90,True
+user_3,Privilege Escalation,2025-01-02 23:00:00,asset_91,56,False
+user_92,Admin Action,2025-01-03 00:00:00,asset_75,83,False
+user_20,Admin Action,2025-01-03 01:00:00,asset_20,24,False
+user_76,Admin Action,2025-01-03 02:00:00,asset_50,38,False
+user_57,File Access,2025-01-03 03:00:00,asset_11,42,True
+user_39,Login,2025-01-03 04:00:00,asset_51,49,True
+user_10,Admin Action,2025-01-03 05:00:00,asset_43,22,True
+user_21,Login,2025-01-03 06:00:00,asset_55,46,False
+user_52,Login,2025-01-03 07:00:00,asset_3,11,False
+user_46,Network Access,2025-01-03 08:00:00,asset_49,64,True
+user_37,Login,2025-01-03 09:00:00,asset_91,87,True
+user_80,Login,2025-01-03 10:00:00,asset_27,61,False
+user_44,Privilege Escalation,2025-01-03 11:00:00,asset_90,55,False
+user_38,Login,2025-01-03 12:00:00,asset_66,88,False
+user_71,Network Access,2025-01-03 13:00:00,asset_15,100,False
+user_41,Login,2025-01-03 14:00:00,asset_54,21,False
+user_99,Privilege Escalation,2025-01-03 15:00:00,asset_6,10,True
+user_92,Network Access,2025-01-03 16:00:00,asset_70,75,False
+user_32,Login,2025-01-03 17:00:00,asset_74,64,False
+user_57,Privilege Escalation,2025-01-03 18:00:00,asset_96,81,True
+user_50,Network Access,2025-01-03 19:00:00,asset_21,4,False
+user_96,File Access,2025-01-03 20:00:00,asset_5,30,False
+user_61,Privilege Escalation,2025-01-03 21:00:00,asset_78,97,True
+user_77,File Access,2025-01-03 22:00:00,asset_98,93,False
+user_86,Admin Action,2025-01-03 23:00:00,asset_69,22,True
+user_49,Admin Action,2025-01-04 00:00:00,asset_7,73,True
+user_85,Admin Action,2025-01-04 01:00:00,asset_69,24,False
+user_48,Admin Action,2025-01-04 02:00:00,asset_28,67,True
+user_90,Login,2025-01-04 03:00:00,asset_79,79,True
+user_45,File Access,2025-01-04 04:00:00,asset_64,90,False
+user_65,File Access,2025-01-04 05:00:00,asset_80,61,False
+user_33,File Access,2025-01-04 06:00:00,asset_16,50,False
+user_25,Login,2025-01-04 07:00:00,asset_92,61,True
+user_6,File Access,2025-01-04 08:00:00,asset_4,50,True
+user_15,Admin Action,2025-01-04 09:00:00,asset_67,89,False
+user_94,File Access,2025-01-04 10:00:00,asset_10,42,True
+user_95,File Access,2025-01-04 11:00:00,asset_44,15,True
+user_64,Network Access,2025-01-04 12:00:00,asset_2,22,False
+user_62,Admin Action,2025-01-04 13:00:00,asset_4,100,False
+user_86,File Access,2025-01-04 14:00:00,asset_49,58,True
+user_42,Network Access,2025-01-04 15:00:00,asset_33,71,True
+user_38,Privilege Escalation,2025-01-04 16:00:00,asset_43,2,False
+user_95,Admin Action,2025-01-04 17:00:00,asset_4,22,False
+user_56,Admin Action,2025-01-04 18:00:00,asset_3,15,False
+user_60,File Access,2025-01-04 19:00:00,asset_8,45,True
+user_86,Privilege Escalation,2025-01-04 20:00:00,asset_90,44,True
+user_20,Privilege Escalation,2025-01-04 21:00:00,asset_41,4,True
+user_99,Login,2025-01-04 22:00:00,asset_18,37,False
+user_90,Network Access,2025-01-04 23:00:00,asset_38,39,False
+user_65,Admin Action,2025-01-05 00:00:00,asset_6,44,False
+user_47,Network Access,2025-01-05 01:00:00,asset_88,3,True
+user_43,Privilege Escalation,2025-01-05 02:00:00,asset_5,32,True
+user_55,Network Access,2025-01-05 03:00:00,asset_89,63,True
+user_76,File Access,2025-01-05 04:00:00,asset_3,21,False
+user_61,Network Access,2025-01-05 05:00:00,asset_30,25,False
+user_16,Privilege Escalation,2025-01-05 06:00:00,asset_55,86,True
+user_15,Privilege Escalation,2025-01-05 07:00:00,asset_3,79,True
+user_98,Network Access,2025-01-05 08:00:00,asset_72,7,False
+user_30,Login,2025-01-05 09:00:00,asset_56,81,True
+user_4,Admin Action,2025-01-05 10:00:00,asset_97,16,True
+user_29,Admin Action,2025-01-05 11:00:00,asset_9,56,True
+user_21,Login,2025-01-05 12:00:00,asset_99,11,True
+user_1,File Access,2025-01-05 13:00:00,asset_51,3,False
+user_39,Admin Action,2025-01-05 14:00:00,asset_24,48,True
+user_88,File Access,2025-01-05 15:00:00,asset_69,72,False
+user_26,Privilege Escalation,2025-01-05 16:00:00,asset_80,20,False
+user_36,Privilege Escalation,2025-01-05 17:00:00,asset_53,75,False
+user_85,File Access,2025-01-05 18:00:00,asset_23,26,False
+user_68,Privilege Escalation,2025-01-05 19:00:00,asset_72,11,False
+user_95,Privilege Escalation,2025-01-05 20:00:00,asset_96,81,True
+user_43,Network Access,2025-01-05 21:00:00,asset_50,41,True
+user_52,Admin Action,2025-01-05 22:00:00,asset_88,70,True
+user_45,File Access,2025-01-05 23:00:00,asset_88,4,True
+user_56,Login,2025-01-06 00:00:00,asset_51,40,True
+user_100,Network Access,2025-01-06 01:00:00,asset_12,32,True
+user_18,Login,2025-01-06 02:00:00,asset_78,89,False
+user_79,File Access,2025-01-06 03:00:00,asset_9,57,False
+user_46,File Access,2025-01-06 04:00:00,asset_83,2,False
+user_88,Admin Action,2025-01-06 05:00:00,asset_47,5,False
+user_66,Network Access,2025-01-06 06:00:00,asset_11,40,False
+user_47,File Access,2025-01-06 07:00:00,asset_90,92,True
+user_61,Admin Action,2025-01-06 08:00:00,asset_33,4,False
+user_22,Admin Action,2025-01-06 09:00:00,asset_81,62,True
+user_8,File Access,2025-01-06 10:00:00,asset_78,11,False
+user_27,Admin Action,2025-01-06 11:00:00,asset_3,97,True
+user_80,Login,2025-01-06 12:00:00,asset_62,54,True
+user_54,File Access,2025-01-06 13:00:00,asset_6,40,False
+user_6,File Access,2025-01-06 14:00:00,asset_45,46,False
+user_72,Admin Action,2025-01-06 15:00:00,asset_70,22,True
+user_93,Network Access,2025-01-06 16:00:00,asset_30,92,False
+user_12,Network Access,2025-01-06 17:00:00,asset_83,10,True
+user_3,Login,2025-01-06 18:00:00,asset_50,55,False
+user_5,Admin Action,2025-01-06 19:00:00,asset_21,93,True
+user_74,Privilege Escalation,2025-01-06 20:00:00,asset_53,83,True
+user_9,Privilege Escalation,2025-01-06 21:00:00,asset_18,39,False
+user_97,Privilege Escalation,2025-01-06 22:00:00,asset_30,18,False
+user_90,Network Access,2025-01-06 23:00:00,asset_22,98,False
+user_5,Admin Action,2025-01-07 00:00:00,asset_2,39,False
+user_46,Admin Action,2025-01-07 01:00:00,asset_61,52,False
+user_51,Privilege Escalation,2025-01-07 02:00:00,asset_94,63,True
+user_86,Admin Action,2025-01-07 03:00:00,asset_69,67,False
+user_57,Login,2025-01-07 04:00:00,asset_2,90,True
+user_36,Privilege Escalation,2025-01-07 05:00:00,asset_75,1,False
+user_65,Network Access,2025-01-07 06:00:00,asset_34,72,False
+user_93,Privilege Escalation,2025-01-07 07:00:00,asset_95,62,False
+user_29,File Access,2025-01-07 08:00:00,asset_53,8,False
+user_64,Network Access,2025-01-07 09:00:00,asset_6,88,True
+user_83,Network Access,2025-01-07 10:00:00,asset_32,46,True
+user_68,Network Access,2025-01-07 11:00:00,asset_40,74,True
+user_56,Privilege Escalation,2025-01-07 12:00:00,asset_68,49,False
+user_7,Privilege Escalation,2025-01-07 13:00:00,asset_27,94,True
+user_79,File Access,2025-01-07 14:00:00,asset_40,98,True
+user_97,Admin Action,2025-01-07 15:00:00,asset_21,10,True
+user_9,File Access,2025-01-07 16:00:00,asset_1,86,False
+user_23,Admin Action,2025-01-07 17:00:00,asset_33,87,False
+user_71,Login,2025-01-07 18:00:00,asset_74,4,True
+user_16,Privilege Escalation,2025-01-07 19:00:00,asset_36,49,True
+user_31,File Access,2025-01-07 20:00:00,asset_13,19,False
+user_92,Admin Action,2025-01-07 21:00:00,asset_49,77,True
+user_88,Network Access,2025-01-07 22:00:00,asset_28,89,False
+user_47,Login,2025-01-07 23:00:00,asset_59,47,False
+user_7,File Access,2025-01-08 00:00:00,asset_11,39,False
+user_86,Network Access,2025-01-08 01:00:00,asset_78,68,True
+user_76,Admin Action,2025-01-08 02:00:00,asset_83,21,True
+user_13,Admin Action,2025-01-08 03:00:00,asset_41,10,True
+user_12,Login,2025-01-08 04:00:00,asset_89,92,True
+user_67,Admin Action,2025-01-08 05:00:00,asset_81,30,False
+user_19,Network Access,2025-01-08 06:00:00,asset_99,59,False
+user_7,Network Access,2025-01-08 07:00:00,asset_25,99,False
+user_42,Privilege Escalation,2025-01-08 08:00:00,asset_22,37,True
+user_2,Admin Action,2025-01-08 09:00:00,asset_81,93,True
+user_9,Admin Action,2025-01-08 10:00:00,asset_81,41,False
+user_45,File Access,2025-01-08 11:00:00,asset_20,48,False
+user_1,Login,2025-01-08 12:00:00,asset_71,80,False
+user_52,File Access,2025-01-08 13:00:00,asset_69,18,False
+user_36,Network Access,2025-01-08 14:00:00,asset_13,59,True
+user_99,Login,2025-01-08 15:00:00,asset_18,19,True
+user_21,Network Access,2025-01-08 16:00:00,asset_8,4,True
+user_57,Network Access,2025-01-08 17:00:00,asset_21,23,True
+user_15,Admin Action,2025-01-08 18:00:00,asset_85,5,False
+user_37,Admin Action,2025-01-08 19:00:00,asset_64,94,True
+user_35,Privilege Escalation,2025-01-08 20:00:00,asset_93,86,False
+user_13,Login,2025-01-08 21:00:00,asset_53,83,True
+user_51,File Access,2025-01-08 22:00:00,asset_56,73,False
+user_56,File Access,2025-01-08 23:00:00,asset_40,63,False
+user_51,File Access,2025-01-09 00:00:00,asset_73,78,True
+user_51,Network Access,2025-01-09 01:00:00,asset_49,79,False
+user_58,Network Access,2025-01-09 02:00:00,asset_70,11,False
+user_22,Admin Action,2025-01-09 03:00:00,asset_69,5,False
+user_47,File Access,2025-01-09 04:00:00,asset_70,7,True
+user_77,Privilege Escalation,2025-01-09 05:00:00,asset_18,41,False
+user_92,Network Access,2025-01-09 06:00:00,asset_15,39,True
+user_39,Privilege Escalation,2025-01-09 07:00:00,asset_65,80,True
+user_6,Login,2025-01-09 08:00:00,asset_28,29,True
+user_91,Login,2025-01-09 09:00:00,asset_20,35,True
+user_67,Admin Action,2025-01-09 10:00:00,asset_76,64,False
+user_31,Login,2025-01-09 11:00:00,asset_30,6,True
+user_14,Login,2025-01-09 12:00:00,asset_67,85,False
+user_43,Network Access,2025-01-09 13:00:00,asset_72,32,False
+user_98,Privilege Escalation,2025-01-09 14:00:00,asset_30,42,False
+user_42,File Access,2025-01-09 15:00:00,asset_53,26,True
+user_48,Login,2025-01-09 16:00:00,asset_10,50,True
+user_51,Privilege Escalation,2025-01-09 17:00:00,asset_55,45,True
+user_95,Network Access,2025-01-09 18:00:00,asset_97,60,True
+user_99,File Access,2025-01-09 19:00:00,asset_53,70,False
+user_88,Login,2025-01-09 20:00:00,asset_89,29,False
+user_61,Privilege Escalation,2025-01-09 21:00:00,asset_89,6,True
+user_29,Privilege Escalation,2025-01-09 22:00:00,asset_43,39,False
+user_22,File Access,2025-01-09 23:00:00,asset_91,2,False
+user_26,Admin Action,2025-01-10 00:00:00,asset_2,94,True
+user_12,Network Access,2025-01-10 01:00:00,asset_62,93,True
+user_45,Privilege Escalation,2025-01-10 02:00:00,asset_6,51,True
+user_33,Network Access,2025-01-10 03:00:00,asset_21,33,False
+user_97,Network Access,2025-01-10 04:00:00,asset_67,61,True
+user_55,File Access,2025-01-10 05:00:00,asset_57,4,True
+user_91,Network Access,2025-01-10 06:00:00,asset_59,68,False
+user_47,Admin Action,2025-01-10 07:00:00,asset_32,27,False
+user_51,File Access,2025-01-10 08:00:00,asset_47,44,True
+user_84,File Access,2025-01-10 09:00:00,asset_52,17,False
+user_10,Network Access,2025-01-10 10:00:00,asset_90,90,True
+user_39,Admin Action,2025-01-10 11:00:00,asset_49,36,False
+user_95,Privilege Escalation,2025-01-10 12:00:00,asset_50,51,False
+user_77,Admin Action,2025-01-10 13:00:00,asset_23,99,False
+user_94,File Access,2025-01-10 14:00:00,asset_96,40,True
+user_14,Privilege Escalation,2025-01-10 15:00:00,asset_71,63,True
+user_7,Network Access,2025-01-10 16:00:00,asset_35,53,False
+user_50,Admin Action,2025-01-10 17:00:00,asset_77,82,True
+user_14,Login,2025-01-10 18:00:00,asset_24,64,True
+user_35,Admin Action,2025-01-10 19:00:00,asset_56,10,False
+user_31,Login,2025-01-10 20:00:00,asset_27,90,True
+user_1,Admin Action,2025-01-10 21:00:00,asset_49,83,True
+user_23,Privilege Escalation,2025-01-10 22:00:00,asset_3,12,False
+user_40,Admin Action,2025-01-10 23:00:00,asset_55,46,False
+user_52,Login,2025-01-11 00:00:00,asset_1,88,False
+user_54,File Access,2025-01-11 01:00:00,asset_86,63,False
+user_80,Admin Action,2025-01-11 02:00:00,asset_90,48,True
+user_75,File Access,2025-01-11 03:00:00,asset_77,78,False
+user_26,Privilege Escalation,2025-01-11 04:00:00,asset_91,78,True
+user_58,Login,2025-01-11 05:00:00,asset_43,34,False
+user_81,Admin Action,2025-01-11 06:00:00,asset_24,12,False
+user_83,Admin Action,2025-01-11 07:00:00,asset_2,62,False
+user_98,Privilege Escalation,2025-01-11 08:00:00,asset_97,20,False
+user_58,Network Access,2025-01-11 09:00:00,asset_23,92,False
+user_27,Privilege Escalation,2025-01-11 10:00:00,asset_85,6,True
+user_71,Privilege Escalation,2025-01-11 11:00:00,asset_24,86,True
+user_75,File Access,2025-01-11 12:00:00,asset_16,62,False
+user_12,File Access,2025-01-11 13:00:00,asset_55,97,False
+user_28,Network Access,2025-01-11 14:00:00,asset_15,59,True
+user_32,Admin Action,2025-01-11 15:00:00,asset_86,33,True
+user_73,Network Access,2025-01-11 16:00:00,asset_44,72,True
+user_55,Admin Action,2025-01-11 17:00:00,asset_9,6,True
+user_50,Admin Action,2025-01-11 18:00:00,asset_27,11,False
+user_29,Network Access,2025-01-11 19:00:00,asset_4,51,True
+user_60,File Access,2025-01-11 20:00:00,asset_79,63,False
+user_83,Privilege Escalation,2025-01-11 21:00:00,asset_74,31,True
+user_18,File Access,2025-01-11 22:00:00,asset_40,28,True
+user_66,Privilege Escalation,2025-01-11 23:00:00,asset_55,6,False
+user_93,Admin Action,2025-01-12 00:00:00,asset_15,66,False
+user_93,File Access,2025-01-12 01:00:00,asset_58,65,True
+user_38,Admin Action,2025-01-12 02:00:00,asset_9,50,False
+user_28,Network Access,2025-01-12 03:00:00,asset_27,91,False
+user_60,Admin Action,2025-01-12 04:00:00,asset_31,49,True
+user_6,Network Access,2025-01-12 05:00:00,asset_30,20,True
+user_79,Login,2025-01-12 06:00:00,asset_13,87,True
+user_53,File Access,2025-01-12 07:00:00,asset_23,99,True
+user_20,Login,2025-01-12 08:00:00,asset_57,82,False
+user_27,Login,2025-01-12 09:00:00,asset_61,21,True
+user_20,Network Access,2025-01-12 10:00:00,asset_65,38,False
+user_19,Network Access,2025-01-12 11:00:00,asset_62,39,True
+user_74,Privilege Escalation,2025-01-12 12:00:00,asset_69,81,False
+user_72,Network Access,2025-01-12 13:00:00,asset_78,25,False
+user_91,Login,2025-01-12 14:00:00,asset_4,80,True
+user_12,Privilege Escalation,2025-01-12 15:00:00,asset_45,84,False
+user_62,File Access,2025-01-12 16:00:00,asset_37,51,False
+user_38,Login,2025-01-12 17:00:00,asset_45,71,True
+user_34,Login,2025-01-12 18:00:00,asset_34,97,True
+user_58,File Access,2025-01-12 19:00:00,asset_72,87,False
+user_52,Privilege Escalation,2025-01-12 20:00:00,asset_71,93,True
+user_60,Login,2025-01-12 21:00:00,asset_11,8,True
+user_76,Admin Action,2025-01-12 22:00:00,asset_57,99,True
+user_85,Login,2025-01-12 23:00:00,asset_79,39,False
+user_28,File Access,2025-01-13 00:00:00,asset_72,100,True
+user_57,Login,2025-01-13 01:00:00,asset_11,80,True
+user_72,Admin Action,2025-01-13 02:00:00,asset_51,23,True
+user_84,Login,2025-01-13 03:00:00,asset_15,13,True
+user_11,Privilege Escalation,2025-01-13 04:00:00,asset_5,67,True
+user_15,Network Access,2025-01-13 05:00:00,asset_94,62,True
+user_3,Login,2025-01-13 06:00:00,asset_68,1,True
+user_16,Login,2025-01-13 07:00:00,asset_20,39,False
+user_77,Network Access,2025-01-13 08:00:00,asset_76,79,False
+user_21,Admin Action,2025-01-13 09:00:00,asset_67,84,True
+user_49,Network Access,2025-01-13 10:00:00,asset_61,34,True
+user_59,Privilege Escalation,2025-01-13 11:00:00,asset_38,93,False
+user_46,Network Access,2025-01-13 12:00:00,asset_51,84,False
+user_1,Privilege Escalation,2025-01-13 13:00:00,asset_71,91,True
+user_76,File Access,2025-01-13 14:00:00,asset_75,58,False
+user_7,Privilege Escalation,2025-01-13 15:00:00,asset_42,8,False
+user_71,Admin Action,2025-01-13 16:00:00,asset_41,91,False
+user_6,Admin Action,2025-01-13 17:00:00,asset_1,98,False
+user_21,File Access,2025-01-13 18:00:00,asset_82,22,True
+user_78,Admin Action,2025-01-13 19:00:00,asset_9,92,False
+user_67,Privilege Escalation,2025-01-13 20:00:00,asset_93,17,True
+user_26,Login,2025-01-13 21:00:00,asset_88,57,True
+user_39,Network Access,2025-01-13 22:00:00,asset_81,46,False
+user_41,Network Access,2025-01-13 23:00:00,asset_22,9,True
+user_8,Network Access,2025-01-14 00:00:00,asset_96,45,True
+user_64,Login,2025-01-14 01:00:00,asset_13,76,False
+user_62,Admin Action,2025-01-14 02:00:00,asset_79,25,False
+user_32,Privilege Escalation,2025-01-14 03:00:00,asset_35,67,True
+user_29,Login,2025-01-14 04:00:00,asset_77,93,True
+user_86,Network Access,2025-01-14 05:00:00,asset_35,68,False
+user_83,File Access,2025-01-14 06:00:00,asset_54,27,True
+user_33,File Access,2025-01-14 07:00:00,asset_18,34,False
+user_79,Login,2025-01-14 08:00:00,asset_22,79,True
+user_7,Network Access,2025-01-14 09:00:00,asset_56,19,False
+user_9,Admin Action,2025-01-14 10:00:00,asset_39,61,True
+user_27,Admin Action,2025-01-14 11:00:00,asset_83,56,False
+user_50,Admin Action,2025-01-14 12:00:00,asset_46,4,False
+user_67,Privilege Escalation,2025-01-14 13:00:00,asset_12,88,False
+user_69,Login,2025-01-14 14:00:00,asset_35,100,False
+user_39,File Access,2025-01-14 15:00:00,asset_37,81,False
+user_63,Network Access,2025-01-14 16:00:00,asset_73,79,False
+user_65,Admin Action,2025-01-14 17:00:00,asset_50,68,False
+user_39,File Access,2025-01-14 18:00:00,asset_92,9,True
+user_60,Login,2025-01-14 19:00:00,asset_79,20,True
+user_97,Admin Action,2025-01-14 20:00:00,asset_69,60,True
+user_6,File Access,2025-01-14 21:00:00,asset_98,39,False
+user_22,File Access,2025-01-14 22:00:00,asset_69,38,True
+user_13,Privilege Escalation,2025-01-14 23:00:00,asset_1,29,True
+user_59,Network Access,2025-01-15 00:00:00,asset_48,74,True
+user_67,Network Access,2025-01-15 01:00:00,asset_56,32,True
+user_70,Login,2025-01-15 02:00:00,asset_38,20,True
+user_97,Network Access,2025-01-15 03:00:00,asset_11,89,False
+user_94,Login,2025-01-15 04:00:00,asset_32,24,False
+user_84,Network Access,2025-01-15 05:00:00,asset_99,96,False
+user_77,Network Access,2025-01-15 06:00:00,asset_84,46,True
+user_96,Network Access,2025-01-15 07:00:00,asset_80,84,True
+user_79,Login,2025-01-15 08:00:00,asset_51,6,True
+user_70,File Access,2025-01-15 09:00:00,asset_38,16,False
+user_47,Login,2025-01-15 10:00:00,asset_89,15,False
+user_59,Network Access,2025-01-15 11:00:00,asset_38,25,False
+user_24,Network Access,2025-01-15 12:00:00,asset_42,65,False
+user_86,File Access,2025-01-15 13:00:00,asset_9,7,True
+user_1,Admin Action,2025-01-15 14:00:00,asset_10,33,False
+user_61,Login,2025-01-15 15:00:00,asset_84,29,True
+user_12,Privilege Escalation,2025-01-15 16:00:00,asset_5,89,False
+user_68,File Access,2025-01-15 17:00:00,asset_64,49,True
+user_71,Admin Action,2025-01-15 18:00:00,asset_98,33,True
+user_57,Network Access,2025-01-15 19:00:00,asset_63,4,True
+user_59,Network Access,2025-01-15 20:00:00,asset_70,6,False
+user_84,File Access,2025-01-15 21:00:00,asset_66,45,True
+user_63,File Access,2025-01-15 22:00:00,asset_5,72,True
+user_38,Privilege Escalation,2025-01-15 23:00:00,asset_94,27,True
+user_13,File Access,2025-01-16 00:00:00,asset_19,18,False
+user_59,File Access,2025-01-16 01:00:00,asset_71,26,True
+user_58,Network Access,2025-01-16 02:00:00,asset_27,34,False
+user_60,File Access,2025-01-16 03:00:00,asset_84,38,False
+user_82,Admin Action,2025-01-16 04:00:00,asset_80,93,False
+user_39,File Access,2025-01-16 05:00:00,asset_72,74,True
+user_94,Login,2025-01-16 06:00:00,asset_64,90,False
+user_88,Privilege Escalation,2025-01-16 07:00:00,asset_88,51,False
+user_70,Login,2025-01-16 08:00:00,asset_3,93,False
+user_41,Network Access,2025-01-16 09:00:00,asset_79,65,True
+user_57,Network Access,2025-01-16 10:00:00,asset_2,54,False
+user_39,Login,2025-01-16 11:00:00,asset_13,60,False
+user_17,Network Access,2025-01-16 12:00:00,asset_14,86,False
+user_55,File Access,2025-01-16 13:00:00,asset_84,49,False
+user_94,Admin Action,2025-01-16 14:00:00,asset_42,32,True
+user_50,Login,2025-01-16 15:00:00,asset_83,29,True
+user_28,Admin Action,2025-01-16 16:00:00,asset_53,12,True
+user_25,Admin Action,2025-01-16 17:00:00,asset_34,83,True
+user_41,Login,2025-01-16 18:00:00,asset_47,89,True
+user_3,File Access,2025-01-16 19:00:00,asset_80,83,True
+user_7,Privilege Escalation,2025-01-16 20:00:00,asset_5,35,True
+user_6,File Access,2025-01-16 21:00:00,asset_29,72,False
+user_26,Privilege Escalation,2025-01-16 22:00:00,asset_43,65,False
+user_24,Login,2025-01-16 23:00:00,asset_6,13,True
+user_96,Login,2025-01-17 00:00:00,asset_96,26,False
+user_75,File Access,2025-01-17 01:00:00,asset_98,63,False
+user_54,Network Access,2025-01-17 02:00:00,asset_14,77,True
+user_20,Admin Action,2025-01-17 03:00:00,asset_72,88,False
+user_6,Privilege Escalation,2025-01-17 04:00:00,asset_27,21,True
+user_88,Privilege Escalation,2025-01-17 05:00:00,asset_11,10,True
+user_39,File Access,2025-01-17 06:00:00,asset_38,82,False
+user_6,Privilege Escalation,2025-01-17 07:00:00,asset_94,52,False
+user_48,Admin Action,2025-01-17 08:00:00,asset_48,32,False
+user_6,Privilege Escalation,2025-01-17 09:00:00,asset_49,95,False
+user_53,Network Access,2025-01-17 10:00:00,asset_56,3,False
+user_100,File Access,2025-01-17 11:00:00,asset_89,83,True
+user_24,Login,2025-01-17 12:00:00,asset_47,81,False
+user_48,Admin Action,2025-01-17 13:00:00,asset_41,100,True
+user_60,Login,2025-01-17 14:00:00,asset_7,34,False
+user_60,Login,2025-01-17 15:00:00,asset_36,13,False
+user_28,Network Access,2025-01-17 16:00:00,asset_69,30,True
+user_23,Admin Action,2025-01-17 17:00:00,asset_88,42,False
+user_76,File Access,2025-01-17 18:00:00,asset_25,26,True
+user_21,File Access,2025-01-17 19:00:00,asset_77,45,True
+user_37,Privilege Escalation,2025-01-17 20:00:00,asset_74,11,True
+user_38,File Access,2025-01-17 21:00:00,asset_66,82,False
+user_20,Login,2025-01-17 22:00:00,asset_11,6,True
+user_51,Privilege Escalation,2025-01-17 23:00:00,asset_68,56,True
+user_63,Login,2025-01-18 00:00:00,asset_17,96,True
+user_13,Login,2025-01-18 01:00:00,asset_99,93,True
+user_6,Login,2025-01-18 02:00:00,asset_66,36,True
+user_9,File Access,2025-01-18 03:00:00,asset_58,73,True
+user_29,Privilege Escalation,2025-01-18 04:00:00,asset_94,48,False
+user_11,File Access,2025-01-18 05:00:00,asset_61,38,True
+user_94,Admin Action,2025-01-18 06:00:00,asset_65,30,False
+user_19,Admin Action,2025-01-18 07:00:00,asset_100,46,True
+user_78,Admin Action,2025-01-18 08:00:00,asset_85,28,False
+user_12,File Access,2025-01-18 09:00:00,asset_72,50,True
+user_87,Login,2025-01-18 10:00:00,asset_90,81,False
+user_67,File Access,2025-01-18 11:00:00,asset_51,35,True
+user_54,File Access,2025-01-18 12:00:00,asset_16,66,False
+user_7,File Access,2025-01-18 13:00:00,asset_59,100,False
+user_41,Privilege Escalation,2025-01-18 14:00:00,asset_55,98,True
+user_87,Network Access,2025-01-18 15:00:00,asset_74,13,False
+user_13,File Access,2025-01-18 16:00:00,asset_67,41,False
+user_30,File Access,2025-01-18 17:00:00,asset_100,100,False
+user_13,File Access,2025-01-18 18:00:00,asset_96,49,False
+user_17,Privilege Escalation,2025-01-18 19:00:00,asset_73,80,False
+user_65,Privilege Escalation,2025-01-18 20:00:00,asset_56,80,False
+user_33,File Access,2025-01-18 21:00:00,asset_35,92,True
+user_53,Login,2025-01-18 22:00:00,asset_71,74,True
+user_76,File Access,2025-01-18 23:00:00,asset_40,62,True
+user_40,Admin Action,2025-01-19 00:00:00,asset_31,91,True
+user_61,Privilege Escalation,2025-01-19 01:00:00,asset_74,84,True
+user_1,Login,2025-01-19 02:00:00,asset_85,47,True
+user_23,Admin Action,2025-01-19 03:00:00,asset_86,54,True
+user_33,Privilege Escalation,2025-01-19 04:00:00,asset_9,62,True
+user_37,File Access,2025-01-19 05:00:00,asset_61,52,False
+user_70,Admin Action,2025-01-19 06:00:00,asset_42,49,False
+user_91,File Access,2025-01-19 07:00:00,asset_22,28,False
+user_26,Network Access,2025-01-19 08:00:00,asset_20,54,True
+user_89,Privilege Escalation,2025-01-19 09:00:00,asset_54,69,True
+user_39,File Access,2025-01-19 10:00:00,asset_37,18,False
+user_32,Network Access,2025-01-19 11:00:00,asset_30,91,False
+user_12,Privilege Escalation,2025-01-19 12:00:00,asset_50,34,True
+user_59,Privilege Escalation,2025-01-19 13:00:00,asset_32,32,True
+user_50,Login,2025-01-19 14:00:00,asset_69,69,True
+user_13,Admin Action,2025-01-19 15:00:00,asset_98,12,True
+user_89,Login,2025-01-19 16:00:00,asset_78,85,True
+user_36,File Access,2025-01-19 17:00:00,asset_34,88,True
+user_73,Login,2025-01-19 18:00:00,asset_84,3,False
+user_60,Privilege Escalation,2025-01-19 19:00:00,asset_89,31,True
+user_95,Login,2025-01-19 20:00:00,asset_3,83,False
+user_22,File Access,2025-01-19 21:00:00,asset_44,31,True
+user_85,Admin Action,2025-01-19 22:00:00,asset_85,14,False
+user_96,Network Access,2025-01-19 23:00:00,asset_28,79,False
+user_36,Login,2025-01-20 00:00:00,asset_67,86,True
+user_14,Network Access,2025-01-20 01:00:00,asset_67,66,True
+user_42,File Access,2025-01-20 02:00:00,asset_18,60,True
+user_59,Login,2025-01-20 03:00:00,asset_25,44,True
+user_72,Login,2025-01-20 04:00:00,asset_57,41,True
+user_12,File Access,2025-01-20 05:00:00,asset_44,14,False
+user_38,Admin Action,2025-01-20 06:00:00,asset_96,41,True
+user_71,Login,2025-01-20 07:00:00,asset_81,64,True
+user_64,Network Access,2025-01-20 08:00:00,asset_89,59,False
+user_18,File Access,2025-01-20 09:00:00,asset_93,35,False
+user_50,File Access,2025-01-20 10:00:00,asset_93,29,True
+user_61,Privilege Escalation,2025-01-20 11:00:00,asset_31,79,False
+user_81,Privilege Escalation,2025-01-20 12:00:00,asset_72,82,True
+user_61,Login,2025-01-20 13:00:00,asset_75,5,True
+user_42,File Access,2025-01-20 14:00:00,asset_55,69,True
+user_36,Login,2025-01-20 15:00:00,asset_19,6,True
+user_84,Network Access,2025-01-20 16:00:00,asset_15,75,False
+user_9,Network Access,2025-01-20 17:00:00,asset_59,10,True
+user_10,Privilege Escalation,2025-01-20 18:00:00,asset_20,50,False
+user_27,Privilege Escalation,2025-01-20 19:00:00,asset_91,77,True
+user_29,Privilege Escalation,2025-01-20 20:00:00,asset_67,63,False
+user_37,Login,2025-01-20 21:00:00,asset_5,96,True
+user_13,File Access,2025-01-20 22:00:00,asset_16,37,False
+user_90,Login,2025-01-20 23:00:00,asset_98,62,True
+user_83,Admin Action,2025-01-21 00:00:00,asset_37,63,True
+user_55,Admin Action,2025-01-21 01:00:00,asset_95,67,True
+user_57,Login,2025-01-21 02:00:00,asset_62,63,False
+user_21,Network Access,2025-01-21 03:00:00,asset_14,47,False
+user_5,File Access,2025-01-21 04:00:00,asset_53,10,True
+user_56,Login,2025-01-21 05:00:00,asset_66,15,True
+user_55,Login,2025-01-21 06:00:00,asset_18,79,False
+user_63,Network Access,2025-01-21 07:00:00,asset_87,18,False
+user_77,Network Access,2025-01-21 08:00:00,asset_22,64,False
+user_63,Privilege Escalation,2025-01-21 09:00:00,asset_8,6,False
+user_11,Login,2025-01-21 10:00:00,asset_47,5,True
+user_45,Network Access,2025-01-21 11:00:00,asset_66,81,True
+user_93,File Access,2025-01-21 12:00:00,asset_76,15,True
+user_62,Login,2025-01-21 13:00:00,asset_27,75,False
+user_22,Admin Action,2025-01-21 14:00:00,asset_75,30,False
+user_11,Privilege Escalation,2025-01-21 15:00:00,asset_45,93,True
+user_95,File Access,2025-01-21 16:00:00,asset_82,13,False
+user_66,Network Access,2025-01-21 17:00:00,asset_5,37,False
+user_4,Privilege Escalation,2025-01-21 18:00:00,asset_92,90,False
+user_25,Admin Action,2025-01-21 19:00:00,asset_93,78,False
